@@ -8,3 +8,6 @@ __pycache__/
 .DS_Store
 要件定義書.md
 preview-v2/
+
+# ビルド成果物（アクセスキーが埋め込まれるためコミットしない）
+dist/
